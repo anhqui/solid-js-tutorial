@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import styles from './App.module.css';
+import logo from "./logo.svg";
+import styles from "./App.module.css";
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
+        <p> Added new features</p>
         <a
           class={styles.link}
           href="https://github.com/solidjs/solid"
